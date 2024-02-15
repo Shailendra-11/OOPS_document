@@ -1,4 +1,4 @@
-package com.kunal.introduction;
+package com.shailendra.introduction;
 
 import java.sql.Struct;
 import java.util.ArrayList;
@@ -27,7 +27,7 @@ public class Main {
         Student rahul = new Student(18, "Rahul Rana", 90.3f);
 
 //        kunal.rno = 13;
-//        kunal.name = "Kunal Kushwaha";
+//        kunal.name = "Kunal";
 //        kunal.marks = 88.5f;
 
 
